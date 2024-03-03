@@ -1,0 +1,147 @@
+
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+
+.header{
+    background-image: url("header\ image.avif");
+    height: 450px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+/* navbar */
+.navbar{
+    padding-top: 20px;
+    justify-content: space-evenly;
+    width: 100%;
+    display: flex;
+}
+/* nav1 */
+.nav1 {
+    display: flex;
+    font-size: 0.85rem;
+    font-weight: 500;
+    width: 40%;
+    align-items: center;  
+}
+
+.nav1 i{
+    margin-right:2px ;
+}
+/* nav1 */
+/* nav2 */
+.nav2{
+    display: flex;
+    font-size: 1.2rem;
+}
+
+.nav2 p{
+    margin-inline-start: 30px;
+    font-family: sans-serif;
+}
+/* nav2 */
+/* navbar */
+/* nav-main */
+.nav-main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.nav-main img{
+    height: 60px;
+    width: 300px;
+    align-self: center;
+}
+
+.zomato-img{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+/* nav-content */
+
+.nav-content{
+    align-items: center;
+}
+
+.nav-content p{
+    font-size: 36px;
+    margin-top: 30px;
+
+}
+
+/* nav-content */
+/* nav-search */
+
+.nav-search{
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    height: 40px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.nav-region select{
+    font-size: 15px;
+    width: 150px;
+    border-color: transparent;
+}
+
+.nav-item input{
+    font-size: 15px;
+    width: 400px;
+    border-color: transparent;
+    
+}
+
+/* nav-search */
+
+/* nav-main */
+
+/* section1 */
+.section1-container{
+    height: 250px;
+    width: 23%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid;
+    border-width: 1px solid;
+    border-color: rgb(230, 230, 230);
+    border-radius: 20px;
+    transition: transform 0.5s ease;
+    
+}
+
+.box-img{
+    height: 200px;
+    background-size: cover;
+    background-image: contain;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+
+.section1-container:hover{
+    transform: scale(1.09);
+
+}
+
+.section1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+/* section1 */
+
+
