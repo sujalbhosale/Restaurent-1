@@ -107,8 +107,8 @@
 
 /* section1 */
 .section1-container{
-    height: 250px;
-    width: 23%;
+    height: 280px;
+    width: 28%;
     background-color: rgb(255, 255, 255);
     margin-top: 20px;
     margin-bottom: 20px;
@@ -117,7 +117,6 @@
     border-color: rgb(230, 230, 230);
     border-radius: 20px;
     transition: transform 0.5s ease;
-    
 }
 
 .box-img{
@@ -129,6 +128,18 @@
 
 }
 
+.section1-container-t1{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #363636;
+    font-size: 20px;
+}
+
+.section1-container-t2{
+    padding-left: 20px;
+    color: #4f4f4f;
+    font-size: 16px;
+}
 .section1-container:hover{
     transform: scale(1.09);
 
