@@ -172,6 +172,10 @@
     /* border: 2px solid black; */
     display: flex;
     justify-content: center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: contain;
     
 }
 
@@ -218,17 +222,25 @@
     background-color:#ef4f5f;
     width: 150px;
     height: 48px;
-    border-radius: 5px;
+    border-radius: 7px;
     color: white;
     font-size: 15px;
+    border-color:  #fffbf7;
+
 }
 
 #placeholder{
     width: 250px;
     height: 48px;
-    border-radius: 5px;
+    border-radius: 7px;
     font-weight: 50;
     font-size: 20px;
+    border-color:  #fffbf7;
+}
+
+.section4-content-image1{
+    height: 40px;
+    width: 40px;
 }
 
 
