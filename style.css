@@ -154,8 +154,6 @@
 }
 
 
-
-
 /* section1 */
 
 /*section4*/
@@ -238,3 +236,72 @@
 
 
 
+/* Samarth Start */
+
+
+/* Samarth End */
+
+
+/* Sujal Start */
+
+.section3{
+    padding-top: 30px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 div{
+    width: 92%;
+}
+
+.section3-title{
+    color: #363636;
+    font-size: 36px;
+}
+
+.section3-title span{
+    font-weight: 550;
+}
+
+.city{
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    width: 20%;
+    border: 1px solid;
+    border-color: rgb(216, 216, 216);
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+
+.city:hover {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.city-t1{
+    color: #1c1c1c;
+    font-size: 14px;
+}
+
+.city-t2{
+    color: #4b4b4b;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.cities{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.cities div{
+    justify-content: space-evenly;
+    margin-right: 50px;
+}
+
+/* Sujal End */
