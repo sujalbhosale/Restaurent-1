@@ -125,6 +125,8 @@
     background-image: contain;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
+    background-position: center center;
+    background-repeat: no-repeat;
 
 }
 
@@ -132,13 +134,14 @@
     padding-top: 20px;
     padding-left: 20px;
     color: #363636;
-    font-size: 20px;
+    font-size: 1.3rem;
 }
 
 .section1-container-t2{
+    padding-top: 5px;
     padding-left: 20px;
     color: #4f4f4f;
-    font-size: 16px;
+    font-size: 0.9rem;
 }
 .section1-container:hover{
     transform: scale(1.09);
