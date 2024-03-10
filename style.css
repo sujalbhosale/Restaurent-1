@@ -245,6 +245,91 @@
 
 
 /* Samarth Start */
+.section2{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+#span1{
+    margin-left: 420px;
+    color: #E03546;
+    font-family: sans-serif;
+}
+.box{
+    display: flex;
+    padding-top: 10px;
+    color: aliceblue;
+    font-family: sans-serif;
+    
+}
+ #box1{
+    height: 280px;
+    width: 290px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: url("https://b.zmtcdn.com/data/collections/7771cf3a18e1da2916794d3998260c69_1709811212.png?output-format=webp");
+    background-size: cover;
+    box-shadow:5px ;
+}
+ .boxpc1{
+    margin-top: 80%;
+    margin-left: 10px;
+ }
+ .boxp1{
+    font-size: small;
+    margin-left: 10px;
+ }
+#box2{
+    height: 280px;
+    width: 290px;
+    border: 1px solid black;
+    border-radius: 5px;
+     margin-left: 10px; 
+     background-image: url("https://b.zmtcdn.com/data/collections/1322e8a1ff6ae914cd70bc8ec849d20d_1709811460.png?output-format=webp");
+     background-size: cover;
+}
+.boxpc2{
+    margin-top: 80%;
+    margin-left: 10px;
+ }
+ .boxp2{
+    font-size: small;
+    margin-left: 10px;
+ }
+#box3{
+    height: 280px;
+    width: 290px;
+    border: 1px solid black;
+    border-radius: 5px;
+     margin-left: 10px; 
+     background-image: url("https://b.zmtcdn.com/data/collections/fbd237478a5d3b6ea08de83c30230cdd_1709811730.png?output-format=webp");
+     background-size: cover;
+}
+.boxpc3{
+    margin-top: 80%;
+    margin-left: 10px;
+}
+.boxp3{
+    font-size: small;
+    margin-left: 10px; 
+}
+ #box4{
+    height: 280px;
+    width: 290px;
+    border: 1px solid black;
+    border-radius: 5px;
+     margin-left: 10px; 
+     background-image: url("https://b.zmtcdn.com/data/collections/b002ac3dedef51dd605505656450b099_1696922552.jpg?output-format=webp");
+     background-size: cover;
+} 
+.boxpc4{
+    margin-top: 80%;
+    margin-left: 10px;
+}
+.boxp4{
+    font-size: small;
+    margin-left: 10px;
+}
 
 
 /* Samarth End */
